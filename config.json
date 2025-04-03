@@ -1,0 +1,16 @@
+{
+  "devices": [
+    {
+      "codename": "topaz",
+      "manifest": "https://github.com/aftm1614/local_manifests/topaz.xml"
+    },
+    {
+      "codename": "dubai",
+      "manifest": "https://github.com/username/local_manifests/dubai.xml"
+    },
+    {
+      "codename": "onyx",
+      "manifest": "https://github.com/username/local_manifests/onyx.xml"
+    }
+  ]
+}
